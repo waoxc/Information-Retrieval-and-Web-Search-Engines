@@ -1,0 +1,41 @@
+Name: Chengzhe Xue
+USC ID: 5117556482
+News site crawled: nypost.com
+
+Fetch Statistics 
+================
+# fetches attempted: 19991
+# fetches succeeded: 15159
+# fetches failed or aborted: 4832
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1048575
+# unique URLs extracted: 564912
+# unique URLs within News Site: 526777
+# unique URLs outside News Site: 38135
+
+Status Codes:
+=============
+200 OK: 15159
+301 Moved Permanently: 1811
+302 Found: 3019
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 2
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 695
+100KB ~ <1MB: 13838
+>= 1MB: 0
+
+Content Types:
+==============
+text/html: 14533
+image/gif: 0
+image/jpeg: 0
+image/png: 0
+application/pdf: 0

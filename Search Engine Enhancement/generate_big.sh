@@ -1,0 +1,1 @@
+find /Users/xuechengzhe/nypost -name "*html" -print0 | xargs -0 java -jar tika-app-1.19.1.jar -T  >> big.txt
