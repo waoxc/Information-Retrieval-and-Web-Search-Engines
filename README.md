@@ -11,4 +11,4 @@
 1. Implemented a search engine based on two ranking strategies (default Solr algorithm and PageRank algorithm) with function of snippets, auto-completion, spell checking and spell suggestion utilizing Lucene API.
 2. Computed PageRank value of each page by generating a web graph and passing it into NetworkX library in python.
 3. Extracted text from web pages using Apache Tika and implemented spell correction based on Norvig’s spelling program.
-4. Developed a web application displaying search results for a given query using PHP with auto-complete suggestions given in a dropdown list while typing.
+4. Developed a front-end web application displaying search results for a given query using PHP with auto-complete suggestions given in a dropdown list while typing.
